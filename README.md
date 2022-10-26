@@ -1,3 +1,1 @@
-# Sistema de gestão de tarefas.
-
-Developed using python and django.
+Sistema de gestão de tarefas de um usuário
